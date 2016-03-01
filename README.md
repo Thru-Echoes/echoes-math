@@ -2,6 +2,22 @@
 
 * Use of [JSDocs](http://usejsdoc.org/)
 
+* Use of [Random Number Generator Library](https://github.com/mvarshney/simjs-source)
+
+* Use of [D3js Visualization Library](https://d3js.org/)
+
+## Objective & Future Goals
+
+I want to create a well-documented, open / transparent JS-based modeling library focused on statistical and mathematical modeling. I would like the library to integrate easily with D3js. I may make default data returns in D3 format.
+
+#### To-Do
+
+- [ ] Create histogram function
+- [ ] Create scatterplot function
+- [ ] Create Kernel Density Estimator (KDE) function 
+
+## Dependencies & Setup
+
 #### Install JSDocs
 ```
     npm install jsdoc
@@ -34,4 +50,4 @@ This is a possible external library to incorporate and / or use as reference.
 
 * [website](http://simjs.com/random.html)
 
-NOTE: this library provides a host of alternative random number generators. 
+NOTE: this library provides a host of alternative random number generators.
