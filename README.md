@@ -1,4 +1,4 @@
-# General JS library of math, stat, and modeling
+# General scripts for math, stat, and modeling in Python & JS
 
 * Use of [JSDocs](http://usejsdoc.org/)
 
@@ -8,13 +8,7 @@
 
 ## Objective & Future Goals
 
-I want to create a well-documented, open / transparent JS-based modeling library focused on statistical and mathematical modeling. I would like the library to integrate easily with D3js. I may make default data returns in D3 format.
-
-#### To-Do
-
-- [ ] Create histogram function
-- [ ] Create scatterplot function
-- [ ] Create Kernel Density Estimator (KDE) function 
+Create a well-documented, open / transparent library (series of scripts in Python and Javascript) focused on statistical and mathematical modeling. I would like the library to integrate easily with D3js and / or **Flask** (Python). I may make default data returns in D3 format.
 
 ## Dependencies & Setup
 
